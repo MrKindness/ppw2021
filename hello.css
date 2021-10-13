@@ -1,3 +1,7 @@
-span {
+.span1 {
     background: red;
+}
+
+.span2 {
+    background: blue;
 }
