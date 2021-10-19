@@ -1,7 +1,9 @@
 .span1 {
     background: red;
+    margin: 100px;
 }
 
 .span2 {
     background: blue;
+    margin: 200px;
 }
