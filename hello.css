@@ -1,3 +1,8 @@
+.hereDiv {
+    display: grid;
+    background: url("./images/Laputa.png");
+}
+
 .span1 {
     background: red;
     margin: 100px;
@@ -6,8 +11,4 @@
 .span2 {
     background: blue;
     margin: 200px;
-}
-
-.hereDiv {
-    display: grid;
 }
