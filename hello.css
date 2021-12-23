@@ -1,6 +1,6 @@
 .hereDiv {
     display: grid;
-    background: url("./images/Laputa.png");
+    background: no-repeat url("./images/Laputa.png");
 }
 
 .span1 {
