@@ -1,6 +1,7 @@
 .hereDiv {
     display: grid;
     background: no-repeat url("./images/Laputa.png");
+    grid-template-columns: 1fr 1fr;
 }
 
 .span1 {
