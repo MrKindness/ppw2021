@@ -13,3 +13,12 @@
     background: blue;
     margin: 200px;
 }
+.span3 {
+    background: rgb(0, 255, 115);
+    margin: 100px;
+}
+
+.span4 {
+    background: rgb(238, 255, 0);
+    margin: 200px;
+}
